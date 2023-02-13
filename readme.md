@@ -1,6 +1,6 @@
 # Some Simple Web Scrapers
 
-Just a few basic web scrapers I made. They all use Pandas to create a csv containing the scraped data.  
+Just a few basic web scrapers I made. They all use Pandas to create a csv file containing the scraped data.  
 
 ## 1. watches.py  
 >While playing around on [Bid or Buy](https://www.bidorbuy.co.za), I learned that for their site, I needed to use a json payload in order to get the results I wanted in Beautiful Soup, which was to grab the 1st page's search results for watches.
